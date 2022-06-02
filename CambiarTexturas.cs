@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class change_textures : MonoBehaviour
+public class CambiarTexturas : MonoBehaviour
 {
     public Material[] materiales; //creamos una lista de materiales
     public GameObject caraACambiar;
